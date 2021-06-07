@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfTransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transport xsi:type="Car">
+    <Info>
+      <manufacturer>45</manufacturer>
+      <model>45</model>
+    </Info>
+    <StockPrice>4</StockPrice>
+    <Weight>45</Weight>
+    <HorsePower>5</HorsePower>
+    <DoorAmount>4</DoorAmount>
+    <CruiseSpeed>0</CruiseSpeed>
+    <MaxPassengers>0</MaxPassengers>
+    <Type>false</Type>
+    <doorAmount>4</doorAmount>
+  </Transport>
+  <Transport xsi:type="Motorcycle">
+    <Info>
+      <manufacturer>4</manufacturer>
+      <model>54</model>
+    </Info>
+    <StockPrice>5</StockPrice>
+    <Weight>4</Weight>
+    <HorsePower>45</HorsePower>
+    <DoorAmount>0</DoorAmount>
+    <Frame>4545</Frame>
+    <CruiseSpeed>0</CruiseSpeed>
+    <MaxPassengers>0</MaxPassengers>
+    <Type>false</Type>
+  </Transport>
+</ArrayOfTransport>
